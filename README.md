@@ -18,3 +18,13 @@
 - The size of your contribution does not matter. Participation does.
 - Be respectful of others in the community.
 - Try and help as many people as you can.
+
+## Structure of the Program
+- Week 1
+- Week 2
+- Week 3
+- Week 4
+
+## Earn your Badges!
+
+## Contact Information
