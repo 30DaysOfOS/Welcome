@@ -1,5 +1,5 @@
 # Welcome to 30 Days of Open Source!
-
+![logo](/welcome.gif)
 ## Guidelines for participation
 
 - Register for the challenge: https://scholarshiptrack.typeform.com/to/cIuBn2dt
