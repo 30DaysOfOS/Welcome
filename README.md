@@ -28,3 +28,5 @@
 ## Earn your Badges!
 
 ## Contact Information
+
+## Code of Conduct
