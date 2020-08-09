@@ -7,7 +7,7 @@
 - Join the organisation: [30DaysOfOS](https://github.com/30DaysOfOS)
 - Join the Slack channel (30daysofopensource)
 - Fork a repository to [30DaysOfOS](https://github.com/30DaysOfOS)
-- Post updates with the hashtag **#30DaysOfOpenSource** & tag [Code for Cause](https://twitter.com/codeforcauseIn), [Scholarship Track](https://twitter.com/scholarshiptrac)
+- Post updates with the hashtag **#30DaysOfOpenSource** & tag [Code for Cause](https://twitter.com/codeforcauseIn), [Scholarship Track](https://twitter.com/scholarshiptrac) so that we can find you!
 - Earn badges!
 - Ask for help and contribute to the Slack community
 - Write a weekly journal / post on LinkedIn consisting of what you learnt, your thoughts and reflection.
