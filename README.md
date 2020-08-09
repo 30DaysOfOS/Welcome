@@ -22,14 +22,17 @@ https://opensource.google/projects/explore/featured
 - GitHub account, exploring StackOverflow, setting up a blog (optional) and starting to tweet under hashtag #30daysofopensource.
 - Learning git and github basics
 - Find/Create open source projects to contribute to during the program
+
 **Week 2:** Basics
 - Find projects to contribute to and create the first pull request.
 - Fork in organisation repo
+
 **Week 3:** Moving Forward
 - More contributions
 - Find which programs you would like to take part - Gsoc, Outreachy, etc.
 - Go through the previous organizations of GSoC and prepare a list of organizations you would like to work for.
 - Prepare a list of skills required for your target organizations and upskill yourself.
+
 **Week 4:** Wrapping Up
 - Show and Tell 🎉
 - Wrap up program and announce winners 🏅
