@@ -40,8 +40,7 @@ Alpha: First pull request
 Beta:
 
 ## Contact Information
-Email: team@codeforcause.org
-       team@scholarshiptrack.org
+Email: team@codeforcause.org or team@scholarshiptrack.org
 
 ## Code of Conduct
 - Do not label someone else’s work as your own.
