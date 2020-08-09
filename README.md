@@ -36,8 +36,15 @@ Week 4: Wrapping Up
 
 
 ## Earn your Badges!
-Alpha: First pull request
-Beta:
+#### Earn badged for milestones like:
+- Opening up issues
+- Making a Pull Request
+- Reviewing existing Pull Requests
+- Updating the Documentation
+- Getting your Pull Requests merged
+- Being a community member & resolve doubts of others
+- Writing blogs about your progress
+
 
 ## Contact Information
 Email: team@codeforcause.org or team@scholarshiptrack.org
