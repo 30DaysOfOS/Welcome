@@ -49,6 +49,10 @@ https://opensource.google/projects/explore/featured
 - Being a community member & resolve doubts of others
 - Writing blogs about your progress
 
+## Learning resources
+YouTube: 
+[Code for Cause](https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg)
+[Scholarship Track](https://www.youtube.com/channel/UCu5YRSqno24ytuv8MFuiIEQ)
 
 ## Contact Information
 Email: 
